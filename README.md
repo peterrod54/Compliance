@@ -4,5 +4,5 @@ Automating cybersecurity compliance reports can play a pivotal role in adherence
 
 ## Step 1
 
-Download the **_Compliance.zip_** file from the following file repository #####**_Note: Right-Click link and select new tab_**#####: [Google Docs](https://drive.google.com/file/d/1Ffju4Wnxc0hrmKAjkW9kQNPQKEY3foCe/view?usp=sharing)
+Download the **_Compliance.zip_** file from the following file repository (**_Note: Right-Click link and select new tab_**): [Google Docs](https://drive.google.com/file/d/1Ffju4Wnxc0hrmKAjkW9kQNPQKEY3foCe/view?usp=sharing)
 
