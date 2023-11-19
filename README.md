@@ -18,8 +18,8 @@ Open the **_hosts.txt_** and enter the hostnames or IP addresses that you want t
 Launch **_VCS-Scanner.exe_** 
 
 Two things to keep in mind to successfully launch app:
-    + 1. Internet access is required.
-    + 2. Launching the executable requires elevated permissions.
+    +Internet access is required.
+    +Launching the executable requires elevated permissions.
 
 
 # Final Thought
