@@ -10,4 +10,6 @@ Download the **_Compliance.zip_** file from the following file repository (**_No
 
 After download, extract file to the root partition (C:).  Once the file is extracted, your directory structure should look like the following:
 
-![Compliance_Dir](https://github.com/peterrod54/Compliance/assets/57069647/42ff88a8-ee22-43db-88bc-7f277e1f7317)
+![Compliance_Dir](https://github.com/peterrod54/Compliance/assets/57069647/1124a204-0884-408b-9b24-0f740e957ccc)
+
+
