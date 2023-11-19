@@ -8,4 +8,4 @@ Download the **_Compliance.zip_** file from the following file repository (**_No
 
 ## Step 2
 
-After download, extract file to the root partition **(c:\\)**.
+After download, extract file to the root partition (c:\).
