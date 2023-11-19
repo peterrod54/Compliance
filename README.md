@@ -12,4 +12,6 @@ After download, extract file to the root partition (C:).  Once the file is extra
 
 ![Compliance_Dir](https://github.com/peterrod54/Compliance/assets/57069647/1124a204-0884-408b-9b24-0f740e957ccc)
 
+## Step 3
 
+Open the **_hosts.txt_** and enter the hostnames or IP addresses that you want to scan.
