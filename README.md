@@ -15,7 +15,7 @@ Extract downloaded file to the root partition (C:).  Once the file is extracted,
 ## Step 3
 Open the **_hosts.txt_** and enter the hostnames or IP addresses that you want to scan. Refer to the **_hosts_-_example.txt_** file to see how that's done.
 
-**NOTE**: It takes 6 minutes to scan one host.  I recommend that you keep your list of hosts to under 10, at least for your first scan.  After that, you can add more hosts to that list but remember that the more hosts you list, the longer the scan will take to generate the compliance report.
+**NOTE**: It takes 6 minutes to scan one host.  I recommend that you keep your list of hosts to under 10, at least for your first scan.  After that, you can add more hosts to that list but remember that the more hosts you add, the longer the scan will take to generate the compliance report.
 
 ## Step 4
 Launch **_VCS-Scanner.exe_** 
@@ -24,12 +24,13 @@ Two things to keep in mind to successfully launch app:
 (1) Internet access is required.
 (2) Launching the executable requires elevated permissions.
 
-Once generated, the _Compliance Report_ is located in **_C:\Reports_**
+### Where can I find the Compliance Report?
+The _Compliance Report_ is generated in the **_C:\Reports_** directory.
 
-What you can expect your Excel report to look like:
+### What you can expect your Excel report to look like:
 ![Compliance_Excel2](https://github.com/peterrod54/Compliance/assets/57069647/556b4048-4ab1-4884-9234-70cf2a1f2742)
 
-What you can expect your benchmark reports to look like:
+### What you can expect your benchmark reports to look like:
 ![Compliance_Report](https://github.com/peterrod54/Compliance/assets/57069647/7175933b-f1c1-4b68-b8eb-3745043b0055)
 
 
