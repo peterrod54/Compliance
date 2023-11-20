@@ -8,7 +8,7 @@ Download the **_Compliance.zip_** file from the following file repository: [Goog
 SHA256: 6E38BFDEF1F6E3898DF1F8D0AFC743F1629D2CA097BB21F6A4C5AA7BA4ABB8C8
 
 ## Step 2
-After download, extract file to the root partition (C:).  Once the file is extracted, your directory structure should look like the following:
+Extract downloaded file to the root partition (C:).  Once the file is extracted, your directory structure should look like the following:
 
 ![Compliance_Dir](https://github.com/peterrod54/Compliance/assets/57069647/1124a204-0884-408b-9b24-0f740e957ccc)
 
