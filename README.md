@@ -26,6 +26,8 @@ Two things to keep in mind to successfully launch app:
 
 Once generated, the _Compliance Report_ is located in **_C:\Reports_**
 
+What you can expect your report to look like:
+
 ![Compliance_Excel](https://github.com/peterrod54/Compliance/assets/57069647/b12d042a-afab-4375-a44d-af58fccc0064)
 
 
