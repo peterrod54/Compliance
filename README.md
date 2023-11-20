@@ -27,4 +27,4 @@ Two things to keep in mind to successfully launch app:
 Once generated, the _Compliance Report_ is located in **_C:\Reports_**
 
 # Final Thought
-I've tried to make the installation process as straight-forward as possible. Nevertheless, what seems _straight-forward_ to one person, doesn't necessarily hold true for someone else. That said, please do not hesitate to reach out if you have any questions or comments.  [Email me](mailto:peter@variacom.com)
+Every effort has been made to make the installation process as straight-forward as possible. Nevertheless, what seems _straight-forward_ to one person doesn't necessarily hold true for someone else. That said, please do not hesitate to reach out if you have any questions or comments.  [Email me](mailto:peter@variacom.com)
