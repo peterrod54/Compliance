@@ -35,4 +35,6 @@ The _Compliance Report_ is generated in the **_C:\Reports_** directory.
 
 
 # Final Thought
+You may experience an issue with your antimalware preventing the execution of the _**VCS-Scanner**_ app. If so, you'll need to add that app to the antimalware white-list. If adding the app doesn't resolve the issue, you'll need to troubleshoot the problem on you own; my software works fine, so if it doesn't work in your environment that's your issue to resolve.
+
 Every effort has been made to make the installation process as straight-forward as possible. Nevertheless, what seems _straight-forward_ to one person doesn't necessarily hold true for someone else. That said, please do not hesitate to reach out if you have any questions or comments.  [Email me](mailto:peter@variacom.com)
