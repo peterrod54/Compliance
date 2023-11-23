@@ -5,6 +5,10 @@ Automating cybersecurity compliance reports can play a pivotal role in adherence
 Download the **_Compliance.zip_** file from the following file repository: [Google Docs](https://drive.google.com/file/d/18m5NfWfAevqH8KBHJ431g1FQcjCXVCQA/view). (**_Note: Right-Click link and select new tab_**)
 #### File Hash Verification
 **SHA256**: 9B9609A35368A600F343E27376FDCB1C216B03A7646D7F9F5BBDC3D497330C85 
+#### Prerequisites
++ Windows Server 2016 and above
++ Minimum 6 GB RAM
++ Minimum 2 CPUs
 
 ## Step 2
 Extract downloaded file to the root partition (C:).  Once the file is extracted, your directory structure should look like the following:
