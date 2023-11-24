@@ -31,7 +31,8 @@ Two things to keep in mind to successfully launch app:
 The _Compliance Report_ is generated in the **_C:\Reports_** directory.
 
 ### What you can expect your Excel report to look like:
-![Compliance_Excel2](https://github.com/peterrod54/Compliance/assets/57069647/05e12db0-f636-4db3-8353-bc921eabbfa7)
+![Compliance_Excel2](https://github.com/peterrod54/Compliance/assets/57069647/ff60449b-1d94-4f09-9740-22f7b7fc913f)
+
 
 
 
