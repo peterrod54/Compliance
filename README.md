@@ -4,7 +4,7 @@ Automating cybersecurity compliance reports can play a pivotal role in adherence
 ## Step 1
 Get the **_download.zip_** file from the following file repository: [Google Docs](https://drive.google.com/file/d/1j4LPXtFefQAKzG9brtAfsZ2-9IhtTaml/view?usp=sharing). (**_Note: Right-Click link and select new tab_**)
 #### File Hash Verification
-**SHA256**: 4035BF99706A5BADE8D8B14F7C582BB33FD5E9D3E0682AD33FC2EBAA3B770595 
+**SHA256**: 85327DC9B03366284DCC1C91EDD6F7CF658BAAB83F6A7D261B1D58C84CBE10B2 
 #### Prerequisites
 + Windows Server 2016 and above
 + Minimum 6 GB RAM
