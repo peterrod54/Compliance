@@ -2,7 +2,7 @@
 Automating cybersecurity compliance reports can play a pivotal role in adherence to industry regulations, and provide organizations with a centralized and comprehensive view of their security posture, which can be shared with auditors and regulators.  Below are the steps required to install an automated cybersecurity compliance reporting infrastructure.
 
 ## Step 1
-Get the **_download.zip_** file from the following file repository: [Google Docs](https://drive.google.com/file/d/1j4LPXtFefQAKzG9brtAfsZ2-9IhtTaml/view?usp=sharing). (**_Note: Right-Click link and select new tab_**)
+Get the **_download.zip_** file from the following file repository: [Google Docs](https://drive.google.com/file/d/1PnB91vmkpOs2dJCzoNMVpI73uGTzj1Rn/view?usp=sharing). (**_Note: Right-Click link and select new tab_**)
 #### File Hash Verification
 **SHA256**: 85327DC9B03366284DCC1C91EDD6F7CF658BAAB83F6A7D261B1D58C84CBE10B2 
 #### Prerequisites
