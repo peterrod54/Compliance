@@ -27,7 +27,7 @@ Two things to keep in mind to successfully launch app:
 (2) Launching the executable requires elevated permissions.
 
 ### Where can I find the Compliance Report?
-The _Compliance Report_ is generated in the **_C:\Reports_** directory.
+The _Compliance Report_ is generated in the **_C:\Compliance\Reports_** directory.
 
 ### What you can expect your Excel report to look like:
 ![Compliance_Excel2](https://github.com/peterrod54/Compliance/assets/57069647/ff60449b-1d94-4f09-9740-22f7b7fc913f)
