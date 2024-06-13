@@ -13,7 +13,7 @@ Get the **_download.zip_** file from the following file repository: [Google Docs
 ## Step 2
 Once the file is extracted, move the "Compliance" directory to the root partition of your C: drive. Your directory structure should look like the following:
 
-![Compliance_Dir](https://github.com/peterrod54/Compliance/assets/57069647/1124a204-0884-408b-9b24-0f740e957ccc)
+![image](https://github.com/peterrod54/Compliance/assets/57069647/6da2efbc-1b16-4db7-ac99-b96e59a20aa8)
 
 ## Step 3
 Open the **_hosts.txt_** and enter the hostnames or IP addresses that you want to scan. Refer to the **_hosts_-_example.txt_** file to see how that's done.
