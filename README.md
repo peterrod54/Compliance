@@ -24,7 +24,7 @@ Open the **_hosts.txt_** and enter the hostnames or IP addresses that you want t
 
 ## Step 4
 
-Once you have added the hosts that you want to scan, run the **_Invoke_Scan_** executable (**_must be executed with elevated permissions_**)
+Once you have added the hosts that you want to scan, run the **_Invoke_Scan_** executable (right-click file,**_Run as administrator_**)
 
 Two things to keep in mind to successfully launch app:
 (1) Internet access is required.
