@@ -39,7 +39,7 @@ The _Compliance Report_ is generated in the **_C:\Compliance\Reports_** director
 ![image](https://github.com/peterrod54/Compliance/assets/57069647/74423c72-f4e8-4ccf-80a8-07bfe132c54e)
 
 
-### What you can expect your benchmark reports to look like:
+### What you can expect the results of an single benchmark report to look like:
 ![Compliance_Report](https://github.com/peterrod54/Compliance/assets/57069647/7175933b-f1c1-4b68-b8eb-3745043b0055)
 
 
