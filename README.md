@@ -26,9 +26,9 @@ Open the **_hosts.txt_** and enter the hostnames or IP addresses that you want t
 
 Once you have added the hosts that you want to scan, execute _Invoke_Scan_  (**Note:** Right-Click file and **_Run as administrator_**)
 
-Two things to keep in mind to successfully launch app:
+Two things to keep in mind to successfully launch scan:
 (1) Internet access is required.
-(2) Launching the **_Invoke_Scan_** executable requires elevated permissions.
+(2) Launching the **_Invoke_Scan_** file requires elevated permissions.
 
 ### Where can I find the Compliance Report?
 The _Compliance Report_ is generated in the **_C:\Compliance\Reports_** directory.
