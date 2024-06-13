@@ -2,9 +2,9 @@
 Automating compliance reporting replaces the manual and cumbersome process of providing organizations with an efficient, centralized and comprehensive view of their security posture; this automated compliance reporting process adheres to major compliance frameworks, such as HIPPA, SOX, PCI and others.  Below are the steps required to install an automated cybersecurity compliance reporting infrastructure.
 
 ## Step 1
-Get the **_download.zip_** file from the following file repository: [Google Docs](https://drive.google.com/file/d/1PnB91vmkpOs2dJCzoNMVpI73uGTzj1Rn/view?usp=sharing). (**_Note: Right-Click link and select new tab_**)
+Get the **_download.zip_** file from the following file repository: [Google Docs](https://drive.google.com/file/d/17Oq_zRMbcevm0gGnoUh8kSIk5mPe0ydl/view?usp=sharing). (**_Note: Right-Click link and select new tab_**)
 #### File Hash Verification
-**SHA256**: 85327DC9B03366284DCC1C91EDD6F7CF658BAAB83F6A7D261B1D58C84CBE10B2 
+**SHA256**: 8D5AD9F80D5236B043CA9527E9B21C7A14727CD5B45BCEB29B47B86E29722775 
 #### Prerequisites
 + Windows Server 2016 and above
 + Minimum 6 GB RAM
