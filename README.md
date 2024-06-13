@@ -22,9 +22,11 @@ Open the **_hosts.txt_** and enter the hostnames or IP addresses that you want t
 
 ## Step 4
 
+Once you have added the hosts that you want to scan, run the **_Invoke_Scan_** executable
+
 Two things to keep in mind to successfully launch app:
 (1) Internet access is required.
-(2) Launching the executable requires elevated permissions.
+(2) Launching the **_Invoke_Scan_** executable requires elevated permissions.
 
 ### Where can I find the Compliance Report?
 The _Compliance Report_ is generated in the **_C:\Compliance\Reports_** directory.
@@ -35,7 +37,6 @@ The _Compliance Report_ is generated in the **_C:\Compliance\Reports_** director
 
 ### What you can expect your benchmark reports to look like:
 ![Compliance_Report](https://github.com/peterrod54/Compliance/assets/57069647/7175933b-f1c1-4b68-b8eb-3745043b0055)
-
 
 
 # Final Thought
