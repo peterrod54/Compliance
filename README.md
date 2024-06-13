@@ -33,6 +33,7 @@ The _Compliance Report_ is generated in the **_C:\Compliance\Reports_** director
 
 ### What you can expect your Excel report to look like:
 ![Compliance_Excel2](https://github.com/peterrod54/Compliance/assets/57069647/ff60449b-1d94-4f09-9740-22f7b7fc913f)
+![image](https://github.com/peterrod54/Compliance/assets/57069647/66781262-6fea-479a-8575-4b1c3ed57e24)
 
 
 ### What you can expect your benchmark reports to look like:
