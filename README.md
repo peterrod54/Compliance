@@ -1,5 +1,5 @@
 # Automated Cybersecurity Compliance Reporting
-Automating compliance reporting replaces the manual and cumbersome process of providing organizations with an efficient, centralized and comprehensive view of their security posture; this automated compliance reporting process adheres to major compliance frameworks, such as HIPPA, SOX, PCI and others.  Below are the steps required to install an automated cybersecurity compliance reporting infrastructure.
+Tired of manually generating compliance reports? Automating the process gives your organization a centralized, up-to-date view of your security posture, making compliance much more efficient. This automation ensures your reports adhere to major frameworks like HIPAA, SOX, and PCI.  Below are the steps required to install an automated cybersecurity compliance reporting infrastructure.
 
 ## Step 1
 Get the **_download.zip_** file from the following file repository: [Google Docs](https://drive.google.com/file/d/17Oq_zRMbcevm0gGnoUh8kSIk5mPe0ydl/view?usp=sharing). (**_Note: Right-Click link and select new tab_**)
