@@ -49,4 +49,4 @@ The _Compliance Report_ is generated in the **C:\Compliance\Reports** directory.
 
 
 # Final Thought
-Once you've completed the above steps, contact me for further instructions. [Email me](mailto:peter@variacom.com)
+Once you've completed the above steps, contact me if you need further instructions. [Email me](mailto:peter@variacom.com)
