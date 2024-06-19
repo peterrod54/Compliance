@@ -1,4 +1,4 @@
-# Automated Cybersecurity Compliance Reporting
+# Automated Compliance Reporting
 Tired of manually generating compliance reports? Automating the process gives your organization a centralized, up-to-date view of your security posture, making compliance much more efficient. This automation ensures your reports adhere to major frameworks like HIPAA, SOX, and PCI.  
 
 Below are the steps required to install automated compliance reporting.
