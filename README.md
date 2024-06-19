@@ -51,7 +51,7 @@ The _Compliance Report_ is generated in the **C:\Compliance\Reports** directory.
 
 
 # Final Thought
-Once you've completed the above steps, contact me if you need further instructions, of if you're interested in how you can incorporate your compliance report into a web-based reporting platform, such as SSRS, PowerBI, or similar platform (see example below). [Contact](mailto:peter@variacom.com)
+Once you've completed the above steps, contact me if you need further instructions, of if you're interested in how you can incorporate your compliance report into a _web-based_ reporting platform, such as SSRS, PowerBI, or similar platform (see example below). [Contact](mailto:peter@variacom.com)
 
 ![image](https://github.com/peterrod54/Compliance/assets/57069647/77b36f61-0950-4508-aaf8-2de182c25be2)
 
