@@ -52,3 +52,6 @@ The _Compliance Report_ is generated in the **C:\Compliance\Reports** directory.
 
 # Final Thought
 Once you've completed the above steps, contact me if you need further instructions. [Contact](mailto:peter@variacom.com)
+
+![image](https://github.com/peterrod54/Compliance/assets/57069647/77b36f61-0950-4508-aaf8-2de182c25be2)
+
