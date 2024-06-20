@@ -13,7 +13,8 @@ Get the **_download.zip_** file from the following file repository: [Google Docs
 + **Windows Server 2016 and above**
 + **Minimum 6 GB RAM**
 + **Minimum 2 CPUs**
-+ **IIS or Apache Web Service** 
++ **IIS or Apache Web Service**
+
     **Note**: _Installing and configuring the Web Service is beyond the scope of this project_
 
 ## Step 2
