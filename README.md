@@ -11,9 +11,9 @@ Get the **_download.zip_** file from the following file repository: [Google Docs
 **SHA256**: CC9B92A8AE829B05E29569F57F37E1D7B9F47CC829CECA558DCF5EBE095351F4 
 #### Prerequisites
 + **Windows Server 2016 and above**
-+ Minimum 6 GB RAM
-+ Minimum 2 CPUs
-+ IIS or Apache Web Service (_Installing and configuring the Web Service is beyond the scope of this project_)
++ **Minimum 6 GB RAM**
++ **Minimum 2 CPUs**
++ **IIS or Apache Web Service** (_Installing and configuring the Web Service is beyond the scope of this project_)
 
 ## Step 2
 Once the file is extracted, move the "Compliance" directory to the root partition of your C: drive. Your directory structure should look like the following:
