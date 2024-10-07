@@ -48,7 +48,7 @@ The _Compliance Report_ is generated as an Excel file (**XLSX**) and is located 
 
 ### What you can expect the results of an single benchmark report to look like:
 ![Compliance_Report](https://github.com/peterrod54/Compliance/assets/57069647/7175933b-f1c1-4b68-b8eb-3745043b0055)
-**NOTE**: Benchmark HTML files are located in: **_C:\Compliance\Reports\HTML_** directory
+
 
 
 # Final Thought
