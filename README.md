@@ -29,7 +29,7 @@ Open the **_hosts.txt_** and enter the hostnames or IP addresses that you want t
 
 ## Step 4
 
-Right-Click _Invoke_Scan_ and **_Run as administrator_**
+Right-Click **_Invoke_Scan_** and _Run as administrator_
 
 **Note:** Two things to keep in mind to successfully launch scan:
 (1) Internet access is required.
