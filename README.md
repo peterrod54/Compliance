@@ -42,7 +42,7 @@ Right-Click _IIS Manager_ and **_Run as administrator_** (_This Step assumes tha
 + Select "_Add Virtual Directory_"
 + Configure virtual directory as follows:
 
-       ![ComplianceHtmlReports](https://github.com/user-attachments/assets/4ff696ce-933a-46cb-89be-ddf0baef31a5)
+  ![ComplianceHtmlReports](https://github.com/user-attachments/assets/4ff696ce-933a-46cb-89be-ddf0baef31a5)
 
 + Next, you'll want to create a share for _C:\Compliance\Reports\HTML_ and provide the required permissions
 
