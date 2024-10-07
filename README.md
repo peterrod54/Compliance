@@ -44,6 +44,8 @@ Right-Click _IIS Manager_ and **_Run as administrator_** (_This Step assumes tha
 
 ![ComplianceHtmlReports](https://github.com/user-attachments/assets/4ff696ce-933a-46cb-89be-ddf0baef31a5)
 
++ Next, you'll want to create a share for _C:\Compliance\Reports\HTML_ and provide the required permissions
+
 
 ### Where can I find the Compliance Report?
 The _Compliance Report_ is generated as an Excel file (**XLSX**) and is located in the **C:\Compliance\Reports** directory.
