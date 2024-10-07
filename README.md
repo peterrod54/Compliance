@@ -1,5 +1,5 @@
 # Automated Compliance Reporting
-Persistent cyber threats, the growing array of regulations and rapidly changing technology have heightened the need for cybersecurity to be integrated into compliance reporting frameworks.
+Persistent cyber threats, plus the growing array of regulations & rapidly changing technology, have heightened the need for cybersecurity to be integrated into compliance reporting frameworks.
 
 Yet, manually generating compliance reports is daunting, tedious and time-consuming. Automating the process is the way to go; it gives your organization a centralized, up-to-date view of your security posture, making compliance much more efficient. This automation ensures your reports adhere to major frameworks like HIPAA, SOX, and PCI.  
 
