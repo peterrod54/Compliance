@@ -35,6 +35,12 @@ Right-Click _Invoke_Scan_ and **_Run as administrator_**
 (1) Internet access is required.
 (2) Launching the **_Invoke_Scan_** file requires elevated permissions.
 
+## Step 5
+
+Right-Click _IIS Manager_ and **_Run as administrator_** (**Note**: This assumes that you have installed and configure IIS Manager)
+
+
+
 ### Where can I find the Compliance Report?
 The _Compliance Report_ is generated as an Excel file (**XLSX**) and is located in the **C:\Compliance\Reports** directory.
 
