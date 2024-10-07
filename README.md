@@ -37,7 +37,7 @@ Right-Click _Invoke_Scan_ and **_Run as administrator_**
 
 ## Step 5
 
-Right-Click _IIS Manager_ and **_Run as administrator_** (**Note**: This assumes that you have installed and configure IIS Manager)
+Right-Click _IIS Manager_ and **_Run as administrator_** (_This Step assumes that you have installed and configure IIS Manager_)
 
 
 
