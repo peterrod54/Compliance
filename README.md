@@ -36,7 +36,7 @@ Right-Click _Invoke_Scan_ and **_Run as administrator_**
 (2) Launching the **_Invoke_Scan_** file requires elevated permissions.
 
 ### Where can I find the Compliance Report?
-The _Compliance Report_ is generated in the **C:\Compliance\Reports** directory.
+The _Compliance Report_ is generated as an Excel file (**XLSX**) and is located in the **C:\Compliance\Reports** directory.
 
 ### What you can expect your Excel report to look like:
 ![Compliance_Excel2](https://github.com/peterrod54/Compliance/assets/57069647/ff60449b-1d94-4f09-9740-22f7b7fc913f)
@@ -47,9 +47,8 @@ The _Compliance Report_ is generated in the **C:\Compliance\Reports** directory.
 
 
 ### What you can expect the results of an single benchmark report to look like:
-**NOTE**: Benchmark HTML files are located in: **_C:\Compliance\Reports\HTML_** directory
 ![Compliance_Report](https://github.com/peterrod54/Compliance/assets/57069647/7175933b-f1c1-4b68-b8eb-3745043b0055)
-
+**NOTE**: Benchmark HTML files are located in: **_C:\Compliance\Reports\HTML_** directory
 
 
 # Final Thought
