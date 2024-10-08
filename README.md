@@ -47,7 +47,7 @@ Right-Click **_IIS Manager_** and _Run as administrator_ (_This Step assumes tha
 + Next, you'll want to create a share for the following directory **_C:\Compliance\Reports\HTML_** and provide the required Security settings and permissions.
 
 
-### Where can I find the Compliance Report?
+### Where can I find the Compliance report?
 The _Compliance Report_ is generated as an Excel file (**XLSX**) and is located in the **C:\Compliance\Reports** directory.
 
 ### What you can expect your Compliance report to look like:
