@@ -37,7 +37,7 @@ Right-Click **_Invoke_Scan_** and _Run as administrator_
 
 ## Step 5
 
-Right-Click _IIS Manager_ and **_Run as administrator_** (_This Step assumes that you have installed and configured IIS Manager_)
+Right-Click **_IIS Manager_** and _Run as administrator_ (_This Step assumes that you have installed and configured IIS Manager_)
 + Right-click "_Default Web Site_"
 + Select "_Add Virtual Directory_"
 + Configure virtual directory as follows:
