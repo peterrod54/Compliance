@@ -1,4 +1,4 @@
-# Automated Compliance Reporting
+# Automated Cybersecurity Compliance Reporting
 Persistent cyber threats, plus the growing array of regulations & rapidly changing technology, have heightened the need for **_Compliance Reporting_** to be integrated into cybersecurity frameworks.
 
 Yet, manually generating compliance reports is daunting, tedious and time-consuming. Automating the process is the way to go; it gives your organization a centralized, up-to-date view of your security posture, making compliance much more efficient. This automation ensures your reports adhere to major frameworks such as NIST, DISA, HIPAA, SOX, and PCI.  
