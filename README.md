@@ -16,7 +16,7 @@ Get the **_download.zip_** file from the following file repository: [Google Docs
        (Note: Installing and configuring the Web Service is beyond the scope of this project)
 
 ## Step 2
-Extract _download.zip_ file to the root partition C:\ drive. Your directory structure should look like the following:
+Extract _download.zip_ file to the root partition **(C:\)** drive. Your directory structure should look like the following:
 
 ![image](https://github.com/peterrod54/Compliance/assets/57069647/6da2efbc-1b16-4db7-ac99-b96e59a20aa8)
 
