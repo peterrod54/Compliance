@@ -6,7 +6,7 @@ Yet, manually generating compliance reports is daunting, tedious and time-consum
 Below are the steps required to install automated compliance reporting.
 
 ## Step 1
-Get the **_download.zip_** file from the following file repository: [Google Docs](https://drive.google.com/file/d/16Aizu_DmIbSHuTCrfrOwmR1k1H7b71zb/view?usp=sharing). (Note: **Right-Click link** and select **_Open Link in New tab_**)
+Get the **_download.zip_** file from the following file repository: [Google Docs](https://drive.google.com/file/d/1ohJY3QgLSnqb5g1gy7u0-NCQpjpw3Bj0/view?usp=sharing). (Note: **Right-Click link** and select **_Open Link in New tab_**)
 #### Prerequisites
 + **Windows Server 2016 and above**
 + **Minimum 6 GB RAM**
